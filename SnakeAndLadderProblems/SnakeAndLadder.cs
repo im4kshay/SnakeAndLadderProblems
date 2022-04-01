@@ -50,7 +50,7 @@ namespace SnakeAndLadderProblems
                 }
                 if (StartPoint >= Winning)
                 {
-                    Console.WriteLine("Playe won");
+                    Console.WriteLine("Player won");
                     break;
                 }
             }
